@@ -12,17 +12,9 @@
 
 <font size="5"><img src="images/hand_7065354.png" width="35px"> Languages and tools:</font>
 
-<table>
-<tr>
-<td><img src="images/vuejs-logo-17D586B587-seeklogo.com.png" width="50px"></img> </td>
-<td><img src="images/JavaScript-logo.png" width="50px"></img> </td>
-<td><img src="images/1532556.png" width="50px"></img> </td>
-<td><img src="images/css3-1331550887274886564.png" width="50px"></img> </td>
-<td><img src="images/bootstrap-stack.png" width="50px"></img> </td>
-<td><img src="images/Git_icon.svg.png" width="50px"></img> </td>
-<td><img src="images/visual-studio-code-icon.webp" width="50px"></img> </td>
-</tr>
-</table>
+<p>
+<img src="images/Asset 1@3x.png" width="450px">
+</p>
 
 ---
 
