@@ -1,8 +1,8 @@
 <img src="images/banner.png" width="100%">
 
-# <img src="images/giphy.gif" width="62px"> Hello there! I'm Mojtaba Mirbaqeri!
+#  <img src="images/giphy.gif" width="62px">Hello there! I'm Mojtaba Mirbaqeri
 
-<font size="5"><img src="images/Developer.gif" width="45px">About Me:</font>
+### **<img src="images/Developer.gif" width="40px">About Me:</font>**
 
 - 🌱 I’m currently learning Vue.JS
 - 📫 How to reach me [MojtabaMirbaqeri@gmail.com](mailto:MojtabaMirbaqeri@gmail.com)
@@ -10,7 +10,8 @@
 
 ---
 
-<font size="5"><img src="images/hand_7065354.png" width="35px"> Languages and tools:</font>
+### **<img src="images/hand_7065354.png" width="28px"> Languages and tools:**
+
 
 <p>
 <img src="images/Asset 1@3x.png" width="450px">
@@ -18,7 +19,7 @@
 
 ---
 
-<font size="5"> Socials:</font>
+### **Socials:**
 
 <table>
 <tr>
