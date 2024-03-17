@@ -1,6 +1,6 @@
 <img src="images/banner.png" width="100%">
 
-# Hello there! I'm Mojtaba Mirbaqeri<img src="images/giphy.gif" width="62px"> 
+#  <img src="images/giphy.gif" width="62px">Hello there! I'm Mojtaba Mirbaqeri
 
 ### **<img src="images/Developer.gif" width="40px">About Me:</font>**
 
