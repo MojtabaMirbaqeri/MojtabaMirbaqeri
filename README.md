@@ -12,7 +12,10 @@
 
 ### **<img src="images/hand_7065354.png" width="28px"> Languages and tools:**
 
-<p align="center"><img src=""></p>
+
+<p>
+<img src="images/Asset 1@3x.png" width="450px">
+</p>
 
 ---
 
